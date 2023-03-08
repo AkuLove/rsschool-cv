@@ -7,7 +7,6 @@
 * **E-mail:** maratnikolaev556@gmail.com
 * **GitHub** [AkuLove](https://github.com/AkuLove)
 * **Telegram** [@Aku_Lovee](t.me/Aku_Lovee)
----
 
 **About me**
 ---
@@ -26,7 +25,8 @@ My name is Marat Nikolaev, i'm 21 years old, live in Belarus, Vitebskaya voblast
 **Code Example**
 ---
 CodeWars: 5kyu. Moving Zeros To The End
-```function moveZeros(arr) {
+```
+function moveZeros(arr) {
   let zeroArr = [];
   let notZeroArr = [];
   arr.filter(function(x) {
